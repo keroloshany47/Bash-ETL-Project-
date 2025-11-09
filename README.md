@@ -151,6 +151,8 @@ Average Transaction: $6.72
 
 Report saved to: /root/coffee_etl_project/reports/daily_report_20251109_073827.txt
 
-```
 
+```
+###  Email Alert Example
+![Email Alert](reports/Email.jpg)
 
