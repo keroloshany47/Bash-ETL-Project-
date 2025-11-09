@@ -1,0 +1,12 @@
+[2025-11-09 07:03:07] ==========================================
+[2025-11-09 07:03:07] Starting BrewTopia ETL Pipeline
+[2025-11-09 07:03:07] ==========================================
+[2025-11-09 07:03:07] Phase 1: Data Extraction
+[2025-11-09 07:03:07] Phase 2: Data Transformation
+[2025-11-09 07:03:07] Phase 3: Data Loading and Analysis
+[2025-11-09 07:03:07] Extracting online orders from JSON...
+[2025-11-09 07:03:07] Successfully extracted 50 online orders
+[2025-11-09 07:03:07] Extracting in-store sales from CSV...
+[2025-11-09 07:03:07] Successfully extracted 75 in-store sales
+[2025-11-09 07:03:07] Extracting inventory data from MySQL database...
+[2025-11-09 07:03:07] ERROR: Cannot connect to database. Check credentials.

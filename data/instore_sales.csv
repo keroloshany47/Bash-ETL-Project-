@@ -1,0 +1,76 @@
+sale_id,product_name,category,size,unit_price,units_sold,sale_date,store_location
+INST-5001,Espresso,Beverages,Small,2.50,3,2024-01-15,Downtown
+INST-5002,Croissant,Food,Regular,3.75,2,2024-01-15,Mall
+INST-5003,Latte,Beverages,Large,4.75,1,2024-01-15,Airport
+INST-5004,Chocolate Chip Cookie,Food,Regular,2.25,4,2024-01-15,Downtown
+INST-5005,Cappuccino,Beverages,Medium,4.25,2,2024-01-15,Mall
+INST-5006,Blueberry Muffin,Food,Regular,3.25,1,2024-01-15,Airport
+INST-5007,Cold Brew,Beverages,Large,4.50,2,2024-01-15,Downtown
+INST-5008,Turkey Sandwich,Food,Regular,8.99,1,2024-01-15,Mall
+INST-5009,Green Tea,Beverages,Small,3.25,3,2024-01-15,Airport
+INST-5010,Caramel Macchiato,Beverages,Medium,5.75,1,2024-01-15,Downtown
+INST-5011,Bagel with Cream Cheese,Food,Regular,4.75,2,2024-01-16,Mall
+INST-5012,Double Espresso,Beverages,Small,3.50,1,2024-01-16,Airport
+INST-5013,Chocolate Croissant,Food,Regular,4.25,1,2024-01-16,Downtown
+INST-5014,Iced Latte,Beverages,Large,5.25,2,2024-01-16,Mall
+INST-5015,Ham and Cheese Panini,Food,Regular,9.25,1,2024-01-16,Airport
+INST-5016,Matcha Latte,Beverages,Medium,5.50,1,2024-01-16,Downtown
+INST-5017,Oatmeal Cookie,Food,Regular,2.75,3,2024-01-16,Mall
+INST-5018,Americano,Beverages,Large,4.00,1,2024-01-16,Airport
+INST-5019,Vanilla Scone,Food,Regular,3.50,2,2024-01-16,Downtown
+INST-5020,Mocha Frappe,Beverages,Large,6.75,1,2024-01-16,Mall
+INST-5021,Chicken Caesar Wrap,Food,Regular,8.50,1,2024-01-17,Airport
+INST-5022,Chai Tea Latte,Beverages,Medium,4.75,1,2024-01-17,Downtown
+INST-5023,Banana Bread,Food,Regular,3.95,1,2024-01-17,Mall
+INST-5024,Iced Tea,Beverages,Large,3.75,2,2024-01-17,Airport
+INST-5025,Breakfast Burrito,Food,Regular,7.25,1,2024-01-17,Downtown
+INST-5026,Flat White,Beverages,Small,4.50,1,2024-01-17,Mall
+INST-5027,Cinnamon Roll,Food,Regular,4.50,1,2024-01-17,Airport
+INST-5028,Hot Chocolate,Beverages,Medium,4.25,1,2024-01-17,Downtown
+INST-5029,Veggie Panini,Food,Regular,8.75,1,2024-01-17,Mall
+INST-5030,Caramel Frappe,Beverages,Large,6.50,1,2024-01-17,Airport
+INST-5031,Apple Danish,Food,Regular,3.95,2,2024-01-18,Downtown
+INST-5032,Turkish Coffee,Beverages,Small,4.00,1,2024-01-18,Mall
+INST-5033,Caprese Sandwich,Food,Regular,9.50,1,2024-01-18,Airport
+INST-5034,Iced Americano,Beverages,Medium,4.25,1,2024-01-18,Downtown
+INST-5035,Chocolate Muffin,Food,Regular,3.75,1,2024-01-18,Mall
+INST-5036,Hazelnut Latte,Beverages,Large,5.75,1,2024-01-18,Airport
+INST-5037,Spinach Feta Wrap,Food,Regular,7.95,1,2024-01-18,Downtown
+INST-5038,Macchiato,Beverages,Small,3.75,1,2024-01-18,Mall
+INST-5039,Almond Croissant,Food,Regular,4.50,1,2024-01-18,Airport
+INST-5040,Vanilla Cold Brew,Beverages,Medium,5.25,1,2024-01-18,Downtown
+INST-5041,Tomato Soup,Food,Regular,5.25,1,2024-01-19,Mall
+INST-5042,Cortado,Beverages,Small,3.50,1,2024-01-19,Airport
+INST-5043,Grilled Cheese,Food,Regular,6.75,1,2024-01-19,Downtown
+INST-5044,Iced Matcha,Beverages,Large,5.95,1,2024-01-19,Mall
+INST-5045,Protein Box,Food,Regular,8.25,1,2024-01-19,Airport
+INST-5046,Coconut Latte,Beverages,Medium,5.25,1,2024-01-19,Downtown
+INST-5047,Breakfast Sandwich,Food,Regular,7.50,1,2024-01-19,Mall
+INST-5048,Red Eye,Beverages,Small,3.25,1,2024-01-19,Airport
+INST-5049,Quiche Lorraine,Food,Regular,6.95,1,2024-01-19,Downtown
+INST-5050,White Mocha,Beverages,Large,6.25,1,2024-01-19,Mall
+INST-5051,Fruit Cup,Food,Regular,4.50,1,2024-01-20,Airport
+INST-5052,Black Tea,Beverages,Medium,3.25,1,2024-01-20,Downtown
+INST-5053,Yogurt Parfait,Food,Regular,5.75,1,2024-01-20,Mall
+INST-5054,Pumpkin Spice Latte,Beverages,Large,6.50,1,2024-01-20,Airport
+INST-5055,Espresso,Beverages,Small,2.50,2,2024-01-20,Downtown
+INST-5056,Croissant,Food,Regular,3.75,3,2024-01-20,Mall
+INST-5057,Latte,Beverages,Large,4.75,2,2024-01-20,Airport
+INST-5058,Chocolate Chip Cookie,Food,Regular,2.25,5,2024-01-20,Downtown
+INST-5059,Cappuccino,Beverages,Medium,4.25,1,2024-01-20,Mall
+INST-5060,Blueberry Muffin,Food,Regular,3.25,2,2024-01-20,Airport
+INST-5061,Cold Brew,Beverages,Large,4.50,3,2024-01-20,Downtown
+INST-5062,Turkey Sandwich,Food,Regular,8.99,2,2024-01-20,Mall
+INST-5063,Green Tea,Beverages,Small,3.25,4,2024-01-20,Airport
+INST-5064,Caramel Macchiato,Beverages,Medium,5.75,2,2024-01-20,Downtown
+INST-5065,Bagel with Cream Cheese,Food,Regular,4.75,1,2024-01-21,Mall
+INST-5066,Double Espresso,Beverages,Small,3.50,2,2024-01-21,Airport
+INST-5067,Chocolate Croissant,Food,Regular,4.25,1,2024-01-21,Downtown
+INST-5068,Iced Latte,Beverages,Large,5.25,3,2024-01-21,Mall
+INST-5069,Ham and Cheese Panini,Food,Regular,9.25,1,2024-01-21,Airport
+INST-5070,Matcha Latte,Beverages,Medium,5.50,2,2024-01-21,Downtown
+INST-5071,Oatmeal Cookie,Food,Regular,2.75,4,2024-01-21,Mall
+INST-5072,Americano,Beverages,Large,4.00,2,2024-01-21,Airport
+INST-5073,Vanilla Scone,Food,Regular,3.50,3,2024-01-21,Downtown
+INST-5074,Mocha Frappe,Beverages,Large,6.75,1,2024-01-21,Mall
+INST-5075,Chicken Caesar Wrap,Food,Regular,8.50,2,2024-01-21,Airport
