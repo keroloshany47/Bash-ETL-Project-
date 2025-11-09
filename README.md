@@ -111,28 +111,46 @@ tail -f logs/etl_*.log
 ##  Sample Output
 
 ```
+========================================
 BREWTOPIA DAILY SALES REPORT
-Generated: 2025-11-09
+Generated: 2025-11-09 07:38:27
+========================================
 
 REVENUE BY CATEGORY:
-Food       : $442.71 (60 items)
-Beverages  : $397.65 (65 items)
+--------------------
+Food           : $  442.71 (60 items)
+Beverages      : $  397.65 (65 items)
 
-TOP PRODUCTS:
-1. Oatmeal Cookie - 10 units
-2. Chocolate Chip Cookie - 9 units
-3. Green Tea - 8 units
+TOP 10 PRODUCTS BY QUANTITY:
+----------------------------
+ 1. Oatmeal Cookie                : 10 units
+ 2. Chocolate Chip Cookie         : 9 units
+ 3. Green Tea                     : 8 units
+ 4. Vanilla Scone                 : 7 units
+ 5. Iced Latte                    : 7 units
+ 6. Cold Brew                     : 6 units
+ 7. Espresso                      : 5 units
+ 8. Croissant                     : 5 units
+ 9. Blueberry Muffin              : 5 units
+10. Turkey Sandwich               : 4 units
 
-SALES BY LOCATION:
-Mall       : $191.12
-Downtown   : $178.80
-Airport    : $177.50
+SALES BY STORE LOCATION:
+------------------------
+Mall           : $  191.12 (25 sales)
+Downtown       : $  178.80 (25 sales)
+Airport        : $  177.50 (25 sales)
 
 LOW INVENTORY ALERTS:
-All inventory levels are adequate
+---------------------
+
+SUMMARY STATISTICS:
+-------------------
+Total Revenue:       $840.36
+Total Transactions:  125
+Average Transaction: $6.72
+
+Report saved to: /root/coffee_etl_project/reports/daily_report_20251109_073827.txt
+
 ```
 
----
 
-تحب أعملها لك؟
-```
