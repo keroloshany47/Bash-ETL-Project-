@@ -154,5 +154,5 @@ Report saved to: /root/coffee_etl_project/reports/daily_report_20251109_073827.t
 
 ```
 ###  Email Alert Example
-![Email Alert](reports/Email.jpg)
+![Email Alert](Email.jpg)
 
